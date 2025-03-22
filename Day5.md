@@ -8,7 +8,8 @@ sudo apt install maven
 
 ## Fork the repo on github
 
-![image](https://github.com/user-attachments/assets/f18f17ad-42e9-4512-a746-3614c7721fff)
+![Screenshot 2025-03-22 141833](https://github.com/user-attachments/assets/88425eb9-5440-41a3-a38a-61ebf9b04feb)
+
 
 ## Configure Jenkins
  - In Jenkins go to `configure jenkins` > `tools`
